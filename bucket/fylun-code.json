@@ -1,16 +1,16 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Terminal AI coding agent connected to your Fylun account (built on OpenCode, MIT)",
   "homepage": "https://fylun.ai/code",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/usefylun/fylun-code/releases/download/v0.1.13/fylun-code-windows-x64.zip",
-      "hash": "f125c023c377bf72a4b9f3c7c80e3f360c68baec051308c0b87f0577b4f05cda"
+      "url": "https://github.com/usefylun/fylun-code/releases/download/v0.1.14/fylun-code-windows-x64.zip",
+      "hash": "f6ab1b83a0c78974c56c4e17130bd3c3135d16bbc1d6b39cacb2611dc16bdfd9"
     },
     "arm64": {
-      "url": "https://github.com/usefylun/fylun-code/releases/download/v0.1.13/fylun-code-windows-arm64.zip",
-      "hash": "e15e453ac1b32cd0a66184f2f0a58d2e2009d35639d4c91e816b5a742a92bf1e"
+      "url": "https://github.com/usefylun/fylun-code/releases/download/v0.1.14/fylun-code-windows-arm64.zip",
+      "hash": "7a310e208bb7806517ceaaeddd21f84d384a7476be194bdd0bd02a32e56fd2ea"
     }
   },
   "bin": [
